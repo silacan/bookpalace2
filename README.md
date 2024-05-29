@@ -14,7 +14,7 @@ Book Palace is an innovative online bookstore that enables users to explore, sea
 To run Book Palace locally with Yarn, follow these steps:
 
 1. **Clone the repository**:
-   - Use the command: `git clone https://github.com/silacan/bookpalace.git`
+   - Use the command: `git clone https://github.com/silacan/bookpalace2.git`
    - This command clones the Book Palace repository to your local machine.
 
 2. **Navigate to the project directory**:
